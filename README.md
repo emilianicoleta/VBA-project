@@ -15,8 +15,8 @@ Verificări de:
 - outlieri (regula 3σ)
 
 
-✔️ Tehnologii folosite:
-Excel VBA
-UserForms
-FileSystem automation
-reguli statistice de validare
+✔️ Tehnologii folosite:  
+Excel VBA  
+UserForms  
+FileSystem automation  
+reguli statistice de validare  
