@@ -1,4 +1,4 @@
-📊 VBA Statistical Validator — Excel Automation Project
+📊 VBA Statistical Validator — Excel Automation Project  
 Acest proiect implementează un validator automat pentru fișiere de raportare, construit în Excel si VBA, cu interfață grafică (UserForm) și cu bară animată de progres.
 
 
